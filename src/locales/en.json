@@ -1,0 +1,50 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "join": "Join Us",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "AirKOP",
+    "subtitle": "Improving drinking water quality and increasing employment opportunities and income for community members.",
+    "cta": "Learn More"
+  },
+  "home": {
+    "partner_title": "Strategic Partner: INDUK KUD",
+    "partner_desc": "Working together to empower communities through sustainable water solutions."
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Quality water solutions for every need.",
+    "smart_station_title": "SmartWater Station",
+    "smart_station_desc": "Providing ISO9001, SNI, BPOM, and Halal certified high-quality pure bottled water and food-grade ice cubes.",
+    "atm_station_title": "ATMWater Refill Station",
+    "atm_station_desc": "Community-based self-service water refill stations offering optional purified and mineral water. High quality at low prices."
+  },
+  "join": {
+    "title": "Join Our Mission",
+    "subtitle": "Become a part of the AirKOP family and make a difference in your community.",
+    "steward_title": "Community Water Steward",
+    "steward_desc": "A perfect opportunity for community women to earn income while taking care of their families. Manage a local water station and serve your neighbors.",
+    "steward_cta": "Learn more",
+    "partner_title": "Regional Partner",
+    "partner_desc": "We are looking for qualified regional partners to expand our network. Join us in bringing clean water to more communities.",
+    "partner_cta": "Contact via WhatsApp"
+  },
+  "login": {
+    "title": "Water Steward Login",
+    "subtitle": "Access your dashboard and messages",
+    "email_label": "Email address",
+    "password_label": "Password",
+    "submit": "Sign in"
+  },
+  "footer": {
+    "desc": "Providing clean water solutions and empowering communities through sustainable business models.",
+    "contact_title": "Contact Us",
+    "links_title": "Quick Links",
+    "rights": "All rights reserved."
+  }
+}
+

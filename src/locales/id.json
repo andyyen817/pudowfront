@@ -1,0 +1,50 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "about": "Tentang Kami",
+    "products": "Produk",
+    "join": "Bergabung",
+    "login": "Masuk"
+  },
+  "hero": {
+    "title": "AirKOP",
+    "subtitle": "Meningkatkan kualitas air minum dan meningkatkan peluang kerja serta pendapatan bagi anggota masyarakat.",
+    "cta": "Pelajari Lebih Lanjut"
+  },
+  "home": {
+    "partner_title": "Mitra Strategis: INDUK KUD",
+    "partner_desc": "Bekerja sama untuk memberdayakan masyarakat melalui solusi air berkelanjutan."
+  },
+  "products": {
+    "title": "Produk Kami",
+    "subtitle": "Solusi air berkualitas untuk setiap kebutuhan.",
+    "smart_station_title": "Stasiun Air Cerdas",
+    "smart_station_desc": "Menyediakan air kemasan murni berkualitas tinggi dan es batu food grade bersertifikat ISO9001, SNI, BPOM, dan Halal.",
+    "atm_station_title": "Stasiun Pengisian Air ATM",
+    "atm_station_desc": "Stasiun pengisian air mandiri berbasis komunitas yang menawarkan pilihan air murni dan mineral. Kualitas tinggi dengan harga murah."
+  },
+  "join": {
+    "title": "Bergabunglah dengan Misi Kami",
+    "subtitle": "Jadilah bagian dari keluarga AirKOP dan buat perbedaan di komunitas Anda.",
+    "steward_title": "Pengurus Air Masyarakat",
+    "steward_desc": "Kesempatan sempurna bagi wanita komunitas untuk mendapatkan penghasilan sambil merawat keluarga mereka. Kelola stasiun air lokal dan layani tetangga Anda.",
+    "steward_cta": "Pelajari lebih lanjut",
+    "partner_title": "Mitra Regional",
+    "partner_desc": "Kami mencari mitra regional yang memenuhi syarat untuk memperluas jaringan kami. Bergabunglah dengan kami dalam membawa air bersih ke lebih banyak komunitas.",
+    "partner_cta": "Hubungi melalui WhatsApp"
+  },
+  "login": {
+    "title": "Masuk Pengurus Air",
+    "subtitle": "Akses dasbor dan pesan Anda",
+    "email_label": "Alamat email",
+    "password_label": "Kata sandi",
+    "submit": "Masuk"
+  },
+  "footer": {
+    "desc": "Menyediakan solusi air bersih dan memberdayakan masyarakat melalui model bisnis yang berkelanjutan.",
+    "contact_title": "Hubungi Kami",
+    "links_title": "Tautan Cepat",
+    "rights": "Hak cipta dilindungi undang-undang."
+  }
+}
+

@@ -1,0 +1,50 @@
+{
+  "navbar": {
+    "home": "首页",
+    "about": "关于我们",
+    "products": "产品介绍",
+    "join": "加入我们",
+    "login": "登入"
+  },
+  "hero": {
+    "title": "AirKOP",
+    "subtitle": "提升饮水品质和增加社员的就业机会增加收入",
+    "cta": "了解更多"
+  },
+  "home": {
+    "partner_title": "战略合作伙伴：INDUK KUD",
+    "partner_desc": "携手合作，通过可持续的水资源解决方案为社区赋能。"
+  },
+  "products": {
+    "title": "我们的产品",
+    "subtitle": "满足各种需求的优质水解决方案。",
+    "smart_station_title": "智能水站",
+    "smart_station_desc": "提供具备 ISO9001 认证、SNI、BPOM 和 Halal 认证的优质纯净桶装水和食用级别的冰块。",
+    "atm_station_title": "社区小型水站",
+    "atm_station_desc": "基于社区的自助式制水站，提供可选的纯净水和矿物质水。优质低价。"
+  },
+  "join": {
+    "title": "加入我们的使命",
+    "subtitle": "成为 AirKOP 大家庭的一员，为您所在的社区带来改变。",
+    "steward_title": "社区水管家",
+    "steward_desc": "社区女性的理想机会，既能照顾家人又能保障收入的兼职工作。管理当地水站并服务您的邻居。",
+    "steward_cta": "了解更多",
+    "partner_title": "区域代理商",
+    "partner_desc": "我们要开放招募合乎条件的区域代理商来扩展我们的网络。加入我们，将清洁水源带给更多社区。",
+    "partner_cta": "通过 WhatsApp 联系"
+  },
+  "login": {
+    "title": "水管家登入",
+    "subtitle": "访问您的仪表板和讯息",
+    "email_label": "电子邮件地址",
+    "password_label": "密码",
+    "submit": "登入"
+  },
+  "footer": {
+    "desc": "通过可持续的商业模式提供清洁水解决方案并为社区赋能。",
+    "contact_title": "联系我们",
+    "links_title": "快速链接",
+    "rights": "保留所有权利。"
+  }
+}
+
