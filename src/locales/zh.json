@@ -11,9 +11,10 @@
     "subtitle": "为印尼社区健康饮水与美好生活",
     "cta": "了解更多"
   },
-  "home": {
-    "partner_title": "战略合作伙伴：INDUK KUD",
-    "partner_desc": "携手合作，通过可持续的水资源解决方案为社区赋能。"
+    "home": {
+    "partner_label": "合作伙伴",
+    "partner_title": "使命与社会价值",
+    "partner_desc": "INDUK KUD 致力于通过创新技术与社区合作，提升饮水品质，增加社员的就业机会与收入，构建更健康、更富裕的社会生态。"
   },
   "products": {
     "title": "我们的产品",

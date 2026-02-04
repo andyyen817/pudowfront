@@ -47,7 +47,7 @@ const Home = () => {
             <div className="w-full lg:w-1/2">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl transform hover:scale-[1.02] transition duration-500">
                 <img
-                  src="https://placehold.co/800x600/e2e8f0/1e293b?text=Strategic+Partner+INDUK+KUD"
+                  src="/assets/INDUK.jpg"
                   alt="INDUK KUD Partnership"
                   className="w-full h-auto object-cover"
                 />
@@ -55,7 +55,7 @@ const Home = () => {
               </div>
             </div>
             <div className="w-full lg:w-1/2">
-              <h2 className="text-blue-600 font-bold tracking-wide uppercase text-sm mb-3">Partnership</h2>
+              <h2 className="text-blue-600 font-bold tracking-wide uppercase text-sm mb-3">{t('home.partner_label')}</h2>
               <h3 className="text-4xl font-bold text-gray-900 mb-6 leading-tight">{t('home.partner_title')}</h3>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                 {t('home.partner_desc')}
