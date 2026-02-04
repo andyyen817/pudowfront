@@ -14,7 +14,14 @@
     "home": {
     "partner_label": "Kemitraan",
     "partner_title": "Misi dan Nilai Sosial",
-    "partner_desc": "INDUK KUD berkomitmen untuk meningkatkan kualitas air minum, menambah peluang kerja dan pendapatan anggota, serta membangun ekosistem sosial yang lebih sehat dan sejahtera melalui inovasi teknologi dan kolaborasi komunitas."
+    "partner_desc": "INDUK KUD berkomitmen untuk meningkatkan kualitas air minum, menambah peluang kerja dan pendapatan anggota, serta membangun ekosistem sosial yang lebih sehat dan sejahtera melalui inovasi teknologi dan kolaborasi komunitas.",
+    "features_title": "Mengapa Memilih AirKOP?",
+    "feature_1_title": "Kualitas Bersertifikat",
+    "feature_1_desc": "Produk bersertifikat ISO9001, SNI, BPOM & Halal.",
+    "feature_2_title": "Terjangkau",
+    "feature_2_desc": "Air berkualitas premium dengan harga ramah masyarakat.",
+    "feature_3_title": "Dampak Komunitas",
+    "feature_3_desc": "Menciptakan lapangan kerja dan peluang pendapatan bagi penduduk setempat."
   },
   "products": {
     "title": "Produk Kami",
@@ -45,7 +52,20 @@
     "desc": "Menyediakan solusi air bersih dan memberdayakan masyarakat melalui model bisnis yang berkelanjutan.",
     "contact_title": "Hubungi Kami",
     "links_title": "Tautan Cepat",
-    "rights": "Hak cipta dilindungi undang-undang."
+    "rights": "Hak cipta dilindungi undang-undang.",
+    "about": {
+      "hero_subtitle": "AirKOP berdedikasi untuk merevolusi akses ke air bersih sambil memberdayakan masyarakat melalui kewirausahaan sosial yang berkelanjutan.",
+      "mission_title": "Misi Kami",
+      "mission_desc": "Induk Koperasi Unit Desa (INDUK KUD) adalah kekuatan inti yang mendorong pembangunan ekonomi pedesaan dan meningkatkan kesejahteraan masyarakat di Indonesia. Dengan puluhan tahun pembangunan lokal yang mengakar dan jaringan komunitas nasional, ia memberdayakan pembangunan berkelanjutan daerah pedesaan. Sebagai merek proyek mata pencaharian inti di bawah INDUK KUD, AirKOP mematuhi strategi inti inovasi teknologi, pemberdayaan masyarakat dan keberlanjutan komersial, berfokus pada permintaan akan air minum bersih di komunitas Indonesia dan membangun sistem layanan pemurnian air berkualitas tinggi dan ramah masyarakat. Sementara itu, ia mengambil proyek sebagai pembawa untuk menciptakan lapangan kerja dan peluang peningkatan pendapatan bagi anggota masyarakat, menyadari nilai ganda \"air bersih inklusif\" dan \"pembangunan masyarakat\", dan membantu membangun ekosistem sosial yang lebih sehat dan sejahtera di daerah pedesaan Indonesia.",
+      "mission_desc_2": "Kami percaya bahwa akses terhadap air bersih adalah hak asasi manusia yang mendasar, dan bahwa masyarakat lokal berada pada posisi terbaik untuk mengelola sumber daya ini secara efektif.",
+      "values_title": "Nilai Inti Kami",
+      "value_1_title": "Kualitas Pertama",
+      "value_1_desc": "Mematuhi standar internasional yang ketat (ISO9001) untuk memastikan setiap tetes aman.",
+      "value_2_title": "Berfokus pada Komunitas",
+      "value_2_desc": "Membangun sistem yang secara langsung menguntungkan ekonomi lokal dan keluarga.",
+      "value_3_title": "Inovasi",
+      "value_3_desc": "Memanfaatkan teknologi cerdas untuk pengelolaan dan distribusi air yang efisien."
+    }
   }
 }
 

@@ -31,7 +31,7 @@ const Products = () => {
              <div className="flex flex-col lg:flex-row">
                  <div className="lg:w-1/2 relative min-h-[400px]">
                     <img
-                      src="https://placehold.co/800x800/3b82f6/ffffff?text=SmartWater+Station+Detail"
+                      src="/assets/smartwater.jpg"
                       alt="SmartWater Station"
                       className="w-full h-full object-cover absolute inset-0"
                     />
@@ -72,7 +72,7 @@ const Products = () => {
              <div className="flex flex-col lg:flex-row-reverse">
                  <div className="lg:w-1/2 relative min-h-[400px]">
                     <img
-                      src="https://placehold.co/800x800/10b981/ffffff?text=ATM+Refill+Station+Detail"
+                      src="/assets/atmstation.jpg"
                       alt="ATM Water Refill"
                       className="w-full h-full object-cover absolute inset-0"
                     />

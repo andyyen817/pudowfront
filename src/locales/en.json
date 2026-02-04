@@ -11,10 +11,17 @@
     "subtitle": "For Healthy Drinking Water and a Better Life in Indonesian Communities",
     "cta": "Learn More"
   },
-    "home": {
+  "home": {
     "partner_label": "Partnership",
     "partner_title": "Mission and Social Value",
-    "partner_desc": "INDUK KUD is committed to enhancing water quality, increasing member employment opportunities and income, and building a healthier and more prosperous social ecosystem through innovative technology and community collaboration."
+    "partner_desc": "INDUK KUD is committed to enhancing water quality, increasing member employment opportunities and income, and building a healthier and more prosperous social ecosystem through innovative technology and community collaboration.",
+    "features_title": "Why Choose AirKOP?",
+    "feature_1_title": "Certified Quality",
+    "feature_1_desc": "ISO9001, SNI, BPOM & Halal certified products.",
+    "feature_2_title": "Affordable",
+    "feature_2_desc": "Premium quality water at community-friendly prices.",
+    "feature_3_title": "Community Impact",
+    "feature_3_desc": "Creating jobs and income opportunities for locals."
   },
   "products": {
     "title": "Our Products",
@@ -46,6 +53,19 @@
     "contact_title": "Contact Us",
     "links_title": "Quick Links",
     "rights": "All rights reserved."
+  },
+  "about": {
+    "hero_subtitle": "AirKOP is dedicated to revolutionizing access to clean water while empowering communities through sustainable social entrepreneurship.",
+    "mission_title": "Our Mission",
+    "mission_desc": "Induk Koperasi Unit Desa (INDUK KUD) is the core force driving rural economic development and improving people's wellbeing in Indonesia. With decades of deep-rooted local development and a nationwide community network, it empowers the sustainable development of rural areas. As a core livelihood project brand under INDUK KUD, AirKOP adheres to the core strategies of technological innovation, community empowerment and commercial sustainability, focusing on the demand for clean drinking water in Indonesian communities and building a high-quality, people-friendly water purification service system. Meanwhile, it takes the project as a carrier to create employment and income-increasing opportunities for community members, realizing the dual values of \"inclusive clean water\" and \"community development\", and helping build a healthier and more prosperous social ecosystem in Indonesian rural areas.",
+    "mission_desc_2": "We believe that access to clean water is a fundamental human right, and that local communities are best positioned to manage this resource effectively.",
+    "values_title": "Our Core Values",
+    "value_1_title": "Quality First",
+    "value_1_desc": "Adhering to strict international standards (ISO9001) to ensure every drop is safe.",
+    "value_2_title": "Community Focused",
+    "value_2_desc": "Building systems that directly benefit local economies and families.",
+    "value_3_title": "Innovation",
+    "value_3_desc": "Leveraging smart technology for efficient water management and distribution."
   }
 }
 
