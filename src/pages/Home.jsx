@@ -13,7 +13,7 @@ const Home = () => {
         {/* Background Image Placeholder */}
         <div className="absolute inset-0 z-0">
           <img
-            src="https://placehold.co/1920x1080/1e40af/ffffff?text=AirKOP+Hero+Image"
+            src="/assets/bg-blue-water.png"
             alt="Hero Background"
             className="w-full h-full object-cover opacity-60"
           />

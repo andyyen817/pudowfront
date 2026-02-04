@@ -48,7 +48,7 @@ const Navbar = () => {
                 className="flex items-center text-gray-700 hover:text-blue-600 focus:outline-none py-2 transition-colors duration-200"
               >
                 <Globe className="h-5 w-5 mr-1" />
-                <span className="uppercase font-medium mr-1">{i18n.language}</span>
+                <span className="uppercase font-medium mr-1">{i18n.language === 'en' ? 'EN' : i18n.language === 'zh' ? 'CN' : 'ID'}</span>
                 <ChevronDown className={`h-4 w-4 transition-transform duration-200 ${isLangOpen ? 'rotate-180' : ''}`} />
               </button>
 
