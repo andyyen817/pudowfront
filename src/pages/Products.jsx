@@ -61,7 +61,7 @@ const Products = () => {
                     </div>
 
                     <button className="self-start px-8 py-3 bg-blue-600 text-white rounded-full font-bold hover:bg-blue-700 transition shadow-lg hover:shadow-blue-500/30">
-                        Request Specifications
+                        {t('products.join_us')}
                     </button>
                  </div>
              </div>
@@ -98,7 +98,7 @@ const Products = () => {
                     </div>
 
                     <button className="self-start px-8 py-3 bg-green-600 text-white rounded-full font-bold hover:bg-green-700 transition shadow-lg hover:shadow-green-500/30">
-                        Find Nearest Station
+                        {t('products.join_us')}
                     </button>
                  </div>
              </div>

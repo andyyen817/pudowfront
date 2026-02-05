@@ -46,13 +46,11 @@ const About = () => {
                 </div>
             </div>
 
-            {/* Strategic Partners */}
+            {/* Our Core Values Title */}
             <div className="text-center mb-16">
-                <h2 className="text-3xl font-bold text-gray-900 mb-12">Our Strategic Partners</h2>
-                <div className="flex flex-wrap justify-center gap-12 items-center grayscale hover:grayscale-0 transition-all duration-500">
-                     <img src="https://placehold.co/150x80/f1f5f9/64748b?text=INDUK+KUD" alt="Induk KUD" className="h-20 w-auto opacity-70 hover:opacity-100 transition-opacity" />
-                     {/* Add more partner logos here */}
-                </div>
+                <h2 className="text-3xl font-bold text-gray-900 mb-4">{t('about.values_title')}</h2>
+                <p className="text-lg text-gray-500">{t('about.values_subtitle_en')}</p>
+                <p className="text-lg text-gray-500">{t('about.values_subtitle_id')}</p>
             </div>
 
              {/* Core Values */}

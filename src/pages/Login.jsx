@@ -7,11 +7,14 @@ const Login = () => {
 
   return (
     <div className="min-h-screen flex font-sans bg-gray-50">
-      {/* Left Side - Image/Brand */}
+      {/* Left Side - Video/Brand */}
       <div className="hidden lg:flex lg:w-1/2 bg-blue-900 relative overflow-hidden">
-        <img
-          src="https://placehold.co/1000x1200/1e3a8a/ffffff?text=Community+Water+Steward"
-          alt="Login Background"
+        <video
+          src="/assets/invedio.mp4"
+          autoPlay
+          loop
+          muted
+          playsInline
           className="w-full h-full object-cover opacity-40"
         />
         <div className="absolute inset-0 bg-gradient-to-tr from-blue-900/80 to-transparent"></div>

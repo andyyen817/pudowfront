@@ -55,14 +55,11 @@ const Home = () => {
               </div>
             </div>
             <div className="w-full lg:w-1/2">
-              <h2 className="text-blue-600 font-bold tracking-wide uppercase text-sm mb-3">{t('home.partner_label')}</h2>
+              <img src="/assets/induklogo.png" alt="Induk KUD Logo" className="h-16 w-auto grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-300 mb-3"/>
               <h3 className="text-4xl font-bold text-gray-900 mb-6 leading-tight">{t('home.partner_title')}</h3>
               <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                 {t('home.partner_desc')}
               </p>
-              <div className="flex items-center gap-4">
-                 <img src="/assets/induklogo.png" alt="Induk KUD Logo" className="h-16 w-auto grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-300"/>
-              </div>
             </div>
           </div>
         </div>
