@@ -8,20 +8,20 @@ const Login = () => {
   return (
     <div className="min-h-screen flex font-sans bg-gray-50">
       {/* Left Side - Video/Brand */}
-      <div className="hidden lg:flex lg:w-1/2 bg-blue-900 relative overflow-hidden">
+      <div className="hidden lg:flex lg:w-1/2 relative overflow-hidden">
         <video
           src="/assets/invedio.mp4"
           autoPlay
           loop
           muted
           playsInline
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-gradient-to-tr from-blue-900/80 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-tr from-black/60 to-transparent"></div>
         <div className="absolute bottom-20 left-12 right-12 text-white">
-          <h2 className="text-4xl font-bold mb-6">Empowering Communities</h2>
-          <p className="text-xl text-blue-100 leading-relaxed">
-            "Access your dashboard to manage water stations, track sales, and connect with your community."
+          <h2 className="text-4xl font-bold mb-6">{t('login.empowering_title')}</h2>
+          <p className="text-xl text-gray-100 leading-relaxed">
+            {t('login.empowering_desc')}
           </p>
         </div>
       </div>
@@ -88,13 +88,13 @@ const Login = () => {
                   className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
                 />
                 <label htmlFor="remember-me" className="ml-2 block text-sm text-gray-900">
-                  Remember me
+                  {t('login.remember_me')}
                 </label>
               </div>
 
               <div className="text-sm">
                 <a href="#" className="font-medium text-blue-600 hover:text-blue-500">
-                  Forgot your password?
+                  {t('login.forgot_password')}
                 </a>
               </div>
             </div>

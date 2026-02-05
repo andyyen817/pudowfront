@@ -49,8 +49,6 @@ const About = () => {
             {/* Our Core Values Title */}
             <div className="text-center mb-16">
                 <h2 className="text-3xl font-bold text-gray-900 mb-4">{t('about.values_title')}</h2>
-                <p className="text-lg text-gray-500">{t('about.values_subtitle_en')}</p>
-                <p className="text-lg text-gray-500">{t('about.values_subtitle_id')}</p>
             </div>
 
              {/* Core Values */}

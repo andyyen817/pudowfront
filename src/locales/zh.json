@@ -47,7 +47,11 @@
     "subtitle": "访问您的仪表板和讯息",
     "email_label": "电子邮件地址",
     "password_label": "密码",
-    "submit": "登入"
+    "submit": "登入",
+    "remember_me": "记住我",
+    "forgot_password": "忘记密码？",
+    "empowering_title": "赋能社区",
+    "empowering_desc": "访问您的仪表板，管理水站、追踪销售并与社区保持联系。"
   },
   "footer": {
     "desc": "通过可持续的商业模式提供清洁水解决方案并为社区赋能。",
@@ -61,14 +65,22 @@
     "mission_desc": "印尼全国乡村合作社联盟（INDUK KUD）是印尼乡村经济发展与民生福祉提升的核心力量，深耕本土数十年，以覆盖全国的社区网络赋能乡村可持续发展。AirKOP 作为 INDUK KUD 旗下核心民生项目品牌，以技术创新、社区赋能、商业可持续为核心策略，聚焦印尼社区洁净饮用水需求，打造优质惠民的净水服务体系；同时以项目为载体，为社区成员创造就业增收机会，实现「净水普惠」与「社区发展」的双重价值，助力构建更健康繁荣的印尼乡村社会生态。",
     "mission_desc_2": "我们认为，获得清洁水源是一项基本人权，而当地社区最有能力有效管理这一资源。",
     "values_title": "我们的价值主张",
-    "values_subtitle_en": "Our Core Values",
-    "values_subtitle_id": "Deklarasi Nilai Kami",
     "value_1_title": "质量第一",
     "value_1_desc": "遵循严格的国际标准（ISO9001），确保每一滴水都安全。",
     "value_2_title": "社区为本",
     "value_2_desc": "建立直接惠及当地经济和家庭的系统。",
     "value_3_title": "创新驱动",
     "value_3_desc": "利用智能技术实现高效的水资源管理和分配。"
+  },
+  "products": {
+    "title": "我们的产品",
+    "subtitle": "满足各种需求的优质水解决方案。",
+    "smart_station_title": "智能水站",
+    "smart_station_desc": "提供具备 ISO9001 认证、SNI、BPOM 和 Halal 认证的优质纯净桶装水和食用级别的冰块。",
+    "atm_station_title": "社区小型水站",
+    "atm_station_desc": "基于社区的自助式制水站，提供可选的纯净水和矿物质水。优质低价。",
+    "join_us": "加入我们",
+    "certified_excellence": "品质认证"
   }
 }
 

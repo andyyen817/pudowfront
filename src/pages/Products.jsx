@@ -1,5 +1,5 @@
 import React from 'react';
-import { Droplets, ShoppingBag, CheckCircle, MapPin } from 'lucide-react';
+import { Droplets, ShoppingBag, CheckCircle } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 const Products = () => {
@@ -49,7 +49,7 @@ const Products = () => {
                     </p>
 
                     <div className="mb-8">
-                        <h4 className="text-sm font-bold text-gray-400 uppercase tracking-wider mb-4">Certified Excellence</h4>
+                        <h4 className="text-sm font-bold text-gray-400 uppercase tracking-wider mb-4">{t('products.certified_excellence')}</h4>
                         <div className="grid grid-cols-2 gap-4">
                             {['ISO9001', 'SNI', 'BPOM', 'Halal'].map((cert) => (
                                 <div key={cert} className="flex items-center gap-3 p-3 bg-blue-50 rounded-lg">
@@ -88,14 +88,6 @@ const Products = () => {
                     <p className="text-lg text-gray-600 mb-8 leading-relaxed">
                       {t('products.atm_station_desc')}
                     </p>
-
-                    <div className="bg-green-50 p-6 rounded-2xl mb-8">
-                        <h4 className="font-bold text-green-800 mb-2 flex items-center">
-                            <MapPin className="h-5 w-5 mr-2" />
-                            Expanding Rapidly
-                        </h4>
-                        <p className="text-green-700">Now available in over 50 communities across the region, providing accessible hydration for everyone.</p>
-                    </div>
 
                     <button className="self-start px-8 py-3 bg-green-600 text-white rounded-full font-bold hover:bg-green-700 transition shadow-lg hover:shadow-green-500/30">
                         {t('products.join_us')}
