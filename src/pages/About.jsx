@@ -39,7 +39,7 @@ const About = () => {
                 </div>
                 <div className="relative rounded-2xl overflow-hidden shadow-2xl rotate-2 hover:rotate-0 transition-transform duration-500">
                     <img
-                      src="https://placehold.co/600x400/e2e8f0/1e293b?text=Mission+Image"
+                      src="/assets/missionimage.png"
                       alt="Our Mission"
                       className="w-full h-full object-cover"
                     />

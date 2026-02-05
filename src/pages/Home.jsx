@@ -61,7 +61,7 @@ const Home = () => {
                 {t('home.partner_desc')}
               </p>
               <div className="flex items-center gap-4">
-                 <img src="https://placehold.co/100x100/f1f5f9/64748b?text=Logo" alt="Induk KUD Logo" className="h-16 w-auto grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-300"/>
+                 <img src="/assets/induklogo.png" alt="Induk KUD Logo" className="h-16 w-auto grayscale opacity-80 hover:grayscale-0 hover:opacity-100 transition-all duration-300"/>
               </div>
             </div>
           </div>

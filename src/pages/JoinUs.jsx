@@ -31,7 +31,7 @@ const JoinUs = () => {
               <div className="h-64 overflow-hidden relative">
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent z-10"></div>
                   <img
-                    src="https://placehold.co/800x600/fbcfe8/be185d?text=Water+Steward"
+                    src="/assets/waterstewar(1).jpg"
                     alt="Water Steward"
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                   />
@@ -57,7 +57,7 @@ const JoinUs = () => {
               <div className="h-64 overflow-hidden relative">
                   <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent z-10"></div>
                   <img
-                    src="https://placehold.co/800x600/e0e7ff/4338ca?text=Regional+Partner"
+                    src="/assets/regionpartner.jpg"
                     alt="Regional Partner"
                     className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                   />
