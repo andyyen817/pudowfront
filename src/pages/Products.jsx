@@ -89,6 +89,36 @@ const Products = () => {
                       {t('products.atm_station_desc')}
                     </p>
 
+                    {/* Pricing Section */}
+                    <div className="mb-8">
+                        <h4 className="text-sm font-bold text-gray-400 uppercase tracking-wider mb-4">{t('products.pricing_title')}</h4>
+                        <div className="bg-green-50 rounded-xl p-6 border-2 border-green-200">
+                            <div className="flex items-center justify-between mb-4">
+                                <span className="text-2xl font-bold text-green-700">{t('products.price_range')}</span>
+                                <span className="text-3xl font-extrabold text-green-900">Rp 5,000 - 20,000</span>
+                            </div>
+                            <div className="grid grid-cols-2 gap-3">
+                                <div className="bg-white rounded-lg p-3 text-center">
+                                    <p className="text-sm text-gray-600">{t('products.small_tier')}</p>
+                                    <p className="text-lg font-bold text-gray-900">Rp 5,000</p>
+                                </div>
+                                <div className="bg-white rounded-lg p-3 text-center">
+                                    <p className="text-sm text-gray-600">{t('products.medium_tier')}</p>
+                                    <p className="text-lg font-bold text-gray-900">Rp 10,000</p>
+                                </div>
+                                <div className="bg-white rounded-lg p-3 text-center">
+                                    <p className="text-sm text-gray-600">{t('products.large_tier')}</p>
+                                    <p className="text-lg font-bold text-gray-900">Rp 15,000</p>
+                                </div>
+                                <div className="bg-white rounded-lg p-3 text-center">
+                                    <p className="text-sm text-gray-600">{t('products.xlarge_tier')}</p>
+                                    <p className="text-lg font-bold text-gray-900">Rp 20,000</p>
+                                </div>
+                            </div>
+                            <p className="text-xs text-gray-500 mt-4 text-center">{t('products.pricing_note')}</p>
+                        </div>
+                    </div>
+
                     <button className="self-start px-8 py-3 bg-green-600 text-white rounded-full font-bold hover:bg-green-700 transition shadow-lg hover:shadow-green-500/30">
                         {t('products.join_us')}
                     </button>
@@ -103,4 +133,5 @@ const Products = () => {
 };
 
 export default Products;
+
 

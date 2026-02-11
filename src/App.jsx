@@ -7,6 +7,9 @@ import Products from './pages/Products';
 import About from './pages/About';
 import JoinUs from './pages/JoinUs';
 import Login from './pages/Login';
+import Privacy from './pages/Privacy';
+import Terms from './pages/Terms';
+import Refund from './pages/Refund';
 import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
@@ -21,6 +24,9 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/join" element={<JoinUs />} />
             <Route path="/login" element={<Login />} />
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/terms" element={<Terms />} />
+            <Route path="/refund" element={<Refund />} />
           </Routes>
         </main>
         <WhatsAppButton />
@@ -31,4 +37,5 @@ function App() {
 }
 
 export default App;
+
 
