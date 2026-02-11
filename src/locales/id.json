@@ -251,6 +251,38 @@
     "dispute_1": "Anda dapat meminta peninjauan ulang oleh supervisor senior",
     "dispute_2": "Kami akan memberikan tanggapan akhir dalam 5 hari kerja",
     "dispute_3": "Jika masih ada sengketa, Anda dapat mencari bantuan dari lembaga perlindungan konsumen"
+  },
+  "application": {
+    "steward_title": "Aplikasi Pengurus Air Masyarakat",
+    "steward_subtitle": "Bergabunglah dengan tim pengurus air masyarakat kami untuk menyediakan air bersih ke komunitas Anda dan mendapatkan penghasilan",
+    "partner_title": "Aplikasi Mitra Regional",
+    "partner_subtitle": "Menjadi mitra regional kami untuk memperluas jaringan air bersih dan membangun bisnis yang berkelanjutan",
+    "full_name": "Nama Lengkap",
+    "full_name_placeholder": "Silakan masukkan nama lengkap Anda",
+    "email": "Alamat Email",
+    "email_placeholder": "email.anda@example.com",
+    "phone": "Nomor Telepon",
+    "phone_placeholder": "+62 xxx xxxx xxxx",
+    "address": "Alamat Lengkap",
+    "address_placeholder": "Silakan masukkan alamat lengkap Anda",
+    "city": "Kota",
+    "city_placeholder": "Silakan masukkan kota",
+    "province": "Provinsi",
+    "province_placeholder": "Silakan masukkan provinsi",
+    "experience": "Pengalaman Terkait",
+    "experience_placeholder": "Silakan jelaskan pengalaman kerja atau keterlibatan komunitas Anda yang relevan",
+    "motivation": "Motivasi Aplikasi",
+    "motivation_placeholder": "Silakan beritahu kami mengapa Anda ingin bergabung dengan AirKOP",
+    "availability": "Ketersediaan untuk Memulai",
+    "availability_select": "Silakan pilih ketersediaan Anda untuk memulai",
+    "availability_immediately": "Segera tersedia",
+    "availability_1_2weeks": "Dalam 1-2 minggu",
+    "availability_1month": "Dalam 1 bulan",
+    "availability_flexible": "Waktu fleksibel",
+    "submit_button": "Kirim Aplikasi",
+    "privacy_notice": "Dengan mengirimkan formulir ini, Anda setuju dengan Kebijakan Privasi dan Syarat Layanan kami",
+    "success_title": "Aplikasi Berhasil Dikirim!",
+    "success_message": "Terima kasih atas aplikasi Anda. Tim kami akan meninjau aplikasi Anda dan menghubungi Anda dalam 3-5 hari kerja."
   }
 }
 

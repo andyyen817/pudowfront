@@ -121,7 +121,7 @@ const Privacy = () => {
                 <li>{t('privacy.right_4')}</li>
                 <li>{t('privacy.right_5')}</li>
               </ul>
-              <p className="text-gray-600 mt-4">{t('privacy.contact_exercise')}: <a href="mailto:service@airkop.com" className="text-blue-600 hover:underline">service@airkop.com</a></p>
+              <p className="text-gray-600 mt-4">{t('privacy.contact_exercise')}: <a href="mailto:contact@airkop.com" className="text-blue-600 hover:underline">contact@airkop.com</a></p>
             </div>
           </div>
 
@@ -144,7 +144,7 @@ const Privacy = () => {
             <div className="prose prose-lg max-w-none">
               <p className="text-gray-600 mb-4">{t('privacy.section8_intro')}</p>
               <ul className="space-y-2 text-gray-700">
-                <li><strong>{t('footer.contact_email')}:</strong> <a href="mailto:service@airkop.com" className="text-blue-600 hover:underline">service@airkop.com</a></li>
+                <li><strong>{t('footer.contact_email')}:</strong> <a href="mailto:contact@airkop.com" className="text-blue-600 hover:underline">contact@airkop.com</a></li>
                 <li><strong>{t('footer.contact_phone')}:</strong> <a href="tel:+6285788568888" className="text-blue-600 hover:underline">+62 857 8856 8888</a></li>
                 <li><strong>{t('footer.contact_address')}:</strong> GRHA INDUK-KUD, JL. BUNCIT RAYA NO. 20, Pejaten Barat, Pasar Minggu, Jakarta Selatan, DKI Jakarta, 12510</li>
               </ul>

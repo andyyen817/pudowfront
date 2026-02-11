@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
 import { ArrowRight, Users, Briefcase } from 'lucide-react';
 const JoinUs = () => {
   const { t } = useTranslation();
@@ -46,9 +47,9 @@ const JoinUs = () => {
                   <p className="text-gray-600 mb-8 leading-relaxed text-lg flex-grow">
                     {t('join.steward_desc')}
                   </p>
-                  <button className="w-full py-4 rounded-xl bg-pink-600 text-white font-bold hover:bg-pink-700 transition shadow-lg hover:shadow-pink-500/30 flex items-center justify-center group-hover:translate-x-1 duration-300">
+                  <Link to="/application?type=steward" className="w-full py-4 rounded-xl bg-pink-600 text-white font-bold hover:bg-pink-700 transition shadow-lg hover:shadow-pink-500/30 flex items-center justify-center group-hover:translate-x-1 duration-300">
                       {t('join.steward_cta')} <ArrowRight className="ml-2 h-5 w-5" />
-                  </button>
+                  </Link>
               </div>
             </div>
 
@@ -72,9 +73,9 @@ const JoinUs = () => {
                   <p className="text-gray-600 mb-8 leading-relaxed text-lg flex-grow">
                     {t('join.partner_desc')}
                   </p>
-                  <a href="https://wa.me/6285710852222" className="w-full py-4 rounded-xl bg-indigo-600 text-white font-bold hover:bg-indigo-700 transition shadow-lg hover:shadow-indigo-500/30 flex items-center justify-center group-hover:translate-x-1 duration-300">
+                  <Link to="/application?type=partner" className="w-full py-4 rounded-xl bg-indigo-600 text-white font-bold hover:bg-indigo-700 transition shadow-lg hover:shadow-indigo-500/30 flex items-center justify-center group-hover:translate-x-1 duration-300">
                       {t('join.partner_cta')} <ArrowRight className="ml-2 h-5 w-5" />
-                  </a>
+                  </Link>
               </div>
             </div>
           </div>

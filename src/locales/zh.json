@@ -238,6 +238,38 @@
     "dispute_1": "可以要求上级主管复审",
     "dispute_2": "我们将在 5 个工作日内给予最终答复",
     "dispute_3": "如仍有争议，可寻求消费者保护机构协助"
+  },
+  "application": {
+    "steward_title": "社区水管家申请",
+    "steward_subtitle": "加入我们的社区水管家团队,为您的社区提供清洁水源并获得收入",
+    "partner_title": "区域合作伙伴申请",
+    "partner_subtitle": "成为我们的区域合作伙伴,扩大清洁水网络并建立可持续业务",
+    "full_name": "全名",
+    "full_name_placeholder": "请输入您的全名",
+    "email": "电子邮箱",
+    "email_placeholder": "your.email@example.com",
+    "phone": "电话号码",
+    "phone_placeholder": "+62 xxx xxxx xxxx",
+    "address": "详细地址",
+    "address_placeholder": "请输入您的完整地址",
+    "city": "城市",
+    "city_placeholder": "请输入城市",
+    "province": "省份",
+    "province_placeholder": "请输入省份",
+    "experience": "相关经验",
+    "experience_placeholder": "请描述您的相关工作经验或社区参与经历",
+    "motivation": "申请动机",
+    "motivation_placeholder": "请告诉我们您为什么想加入AirKOP",
+    "availability": "可开始时间",
+    "availability_select": "请选择您的可开始时间",
+    "availability_immediately": "立即可开始",
+    "availability_1_2weeks": "1-2周内",
+    "availability_1month": "1个月内",
+    "availability_flexible": "时间灵活",
+    "submit_button": "提交申请",
+    "privacy_notice": "提交此表格即表示您同意我们的隐私政策和服务条款",
+    "success_title": "申请提交成功!",
+    "success_message": "感谢您的申请。我们的团队将在3-5个工作日内审核您的申请并与您联系。"
   }
 }
 

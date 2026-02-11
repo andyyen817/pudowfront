@@ -145,7 +145,7 @@ const Refund = () => {
               <p className="text-gray-600 mb-4">{t('refund.section6_intro')}</p>
               <ul className="space-y-2 text-gray-700">
                 <li><strong>{t('footer.contact_phone')}:</strong> <a href="tel:+6285788568888" className="text-purple-600 hover:underline">+62 857 8856 8888</a></li>
-                <li><strong>{t('footer.contact_email')}:</strong> <a href="mailto:service@airkop.com" className="text-purple-600 hover:underline">service@airkop.com</a></li>
+                <li><strong>{t('footer.contact_email')}:</strong> <a href="mailto:contact@airkop.com" className="text-purple-600 hover:underline">contact@airkop.com</a></li>
                 <li><strong>{t('refund.business_hours')}:</strong> {t('refund.hours_desc')}</li>
               </ul>
             </div>

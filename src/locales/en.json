@@ -281,6 +281,38 @@
     "dispute_1": "You may request a review by a senior supervisor",
     "dispute_2": "We will provide a final response within 5 business days",
     "dispute_3": "If disputes remain, you may seek assistance from consumer protection agencies"
+  },
+  "application": {
+    "steward_title": "Community Water Steward Application",
+    "steward_subtitle": "Join our community water steward team to provide clean water to your community and earn income",
+    "partner_title": "Regional Partner Application",
+    "partner_subtitle": "Become our regional partner to expand the clean water network and build a sustainable business",
+    "full_name": "Full Name",
+    "full_name_placeholder": "Please enter your full name",
+    "email": "Email Address",
+    "email_placeholder": "your.email@example.com",
+    "phone": "Phone Number",
+    "phone_placeholder": "+62 xxx xxxx xxxx",
+    "address": "Detailed Address",
+    "address_placeholder": "Please enter your complete address",
+    "city": "City",
+    "city_placeholder": "Please enter city",
+    "province": "Province",
+    "province_placeholder": "Please enter province",
+    "experience": "Relevant Experience",
+    "experience_placeholder": "Please describe your relevant work experience or community involvement",
+    "motivation": "Motivation for Application",
+    "motivation_placeholder": "Please tell us why you want to join AirKOP",
+    "availability": "Availability to Start",
+    "availability_select": "Please select your availability to start",
+    "availability_immediately": "Immediately available",
+    "availability_1_2weeks": "Within 1-2 weeks",
+    "availability_1month": "Within 1 month",
+    "availability_flexible": "Flexible timing",
+    "submit_button": "Submit Application",
+    "privacy_notice": "By submitting this form, you agree to our Privacy Policy and Terms of Service",
+    "success_title": "Application Submitted Successfully!",
+    "success_message": "Thank you for your application. Our team will review your application and contact you within 3-5 business days."
   }
 }
 

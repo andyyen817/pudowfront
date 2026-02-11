@@ -31,10 +31,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <Mail className="h-5 w-5 mr-2 flex-shrink-0 mt-0.5" />
-                <div>
-                  <a href="mailto:contact@airkop.com" className="hover:text-blue-400 block">contact@airkop.com</a>
-                  <a href="mailto:service@airkop.com" className="hover:text-blue-400 block text-gray-400">service@airkop.com</a>
-                </div>
+                <a href="mailto:contact@airkop.com" className="hover:text-blue-400">contact@airkop.com</a>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-5 w-5 mr-2 flex-shrink-0 mt-0.5" />
