@@ -11,6 +11,7 @@ import Privacy from './pages/Privacy';
 import Terms from './pages/Terms';
 import Refund from './pages/Refund';
 import Application from './pages/Application';
+import DeleteAccount from './pages/DeleteAccount';
 import WhatsAppButton from './components/WhatsAppButton';
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
             <Route path="/terms" element={<Terms />} />
             <Route path="/refund" element={<Refund />} />
             <Route path="/application" element={<Application />} />
+            <Route path="/delete-account" element={<DeleteAccount />} />
           </Routes>
         </main>
         <WhatsAppButton />

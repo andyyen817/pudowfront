@@ -55,6 +55,7 @@
     "privacy_policy": "Privacy Policy",
     "terms_conditions": "Terms of Service",
     "refund_policy": "Refund Policy",
+    "delete_account": "Delete Account",
     "business_hours": "Business Hours",
     "hours_desc": "Monday to Saturday 8:30-17:30 (Lunch break 12:30-13:30)",
     "rights": "All rights reserved."
@@ -313,6 +314,32 @@
     "privacy_notice": "By submitting this form, you agree to our Privacy Policy and Terms of Service",
     "success_title": "Application Submitted Successfully!",
     "success_message": "Thank you for your application. Our team will review your application and contact you within 3-5 business days."
+  },
+  "deleteAccount": {
+    "title": "Delete Account",
+    "subtitle": "Request permanent deletion of your account and data",
+    "last_updated": "Last Updated: April 2026",
+    "intro_title": "Before You Delete Your Account",
+    "intro_desc": "Please read the following information carefully before submitting your deletion request.",
+    "warning_title": "Important Information",
+    "warning_1": "Account deletion is permanent and cannot be undone",
+    "warning_2": "All your personal data will be permanently deleted within 30 days",
+    "warning_3": "Your transaction history will be retained for 5 years for legal compliance",
+    "warning_4": "You will lose access to all services immediately after deletion",
+    "warning_5": "Any remaining account balance will be forfeited",
+    "form_title": "Account Deletion Request",
+    "phone_label": "Phone Number",
+    "phone_placeholder": "+62 xxx xxxx xxxx",
+    "reason_label": "Reason for Deletion",
+    "reason_placeholder": "Please tell us why you want to delete your account (optional but helpful)",
+    "confirmation_label": "I understand this action is permanent and my data will be deleted",
+    "submit_button": "Submit Deletion Request",
+    "success_title": "Request Submitted Successfully",
+    "success_message": "Your account deletion request has been received. We will process your request within 3-5 business days and send a confirmation message.",
+    "contact_title": "Need Help?",
+    "contact_desc": "If you have questions or want to discuss alternatives, please contact us:",
+    "business_hours": "Business Hours",
+    "hours_desc": "Monday to Saturday 8:30-17:30 (Lunch break 12:30-13:30) GMT+7"
   }
 }
 

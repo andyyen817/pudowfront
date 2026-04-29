@@ -64,6 +64,7 @@
     "privacy_policy": "隐私政策",
     "terms_conditions": "服务条款",
     "refund_policy": "退款政策",
+    "delete_account": "删除账户",
     "business_hours": "工作时间",
     "hours_desc": "周一至周六 8:30-17:30 (中午休息 12:30-13:30)",
     "rights": "保留所有权利。"
@@ -270,6 +271,32 @@
     "privacy_notice": "提交此表格即表示您同意我们的隐私政策和服务条款",
     "success_title": "申请提交成功!",
     "success_message": "感谢您的申请。我们的团队将在3-5个工作日内审核您的申请并与您联系。"
+  },
+  "deleteAccount": {
+    "title": "删除账户",
+    "subtitle": "请求永久删除您的账户和数据",
+    "last_updated": "最后更新：2026年4月",
+    "intro_title": "删除账户前须知",
+    "intro_desc": "在提交删除请求之前，请仔细阅读以下信息。",
+    "warning_title": "重要信息",
+    "warning_1": "账户删除是永久性的，无法撤销",
+    "warning_2": "您的所有个人数据将在30天内永久删除",
+    "warning_3": "您的交易记录将保留5年以符合法律要求",
+    "warning_4": "删除后您将立即失去所有服务访问权限",
+    "warning_5": "任何剩余账户余额将被没收",
+    "form_title": "账户删除请求",
+    "phone_label": "手机号码",
+    "phone_placeholder": "+62 xxx xxxx xxxx",
+    "reason_label": "删除原因",
+    "reason_placeholder": "请告诉我们您想删除账户的原因（可选但有帮助）",
+    "confirmation_label": "我理解此操作是永久性的，我的数据将被删除",
+    "submit_button": "提交删除请求",
+    "success_title": "请求提交成功",
+    "success_message": "我们已收到您的账户删除请求。我们将在3-5个工作日内处理您的请求并发送确认消息。",
+    "contact_title": "需要帮助？",
+    "contact_desc": "如果您有疑问或想讨论替代方案，请联系我们：",
+    "business_hours": "营业时间",
+    "hours_desc": "周一至周六 8:30-17:30（午休 12:30-13:30）GMT+7"
   }
 }
 

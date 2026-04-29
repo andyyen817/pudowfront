@@ -1,6 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import { Phone, Mail, MapPin, FileText, Shield, DollarSign } from 'lucide-react';
+import { Phone, Mail, MapPin, FileText, Shield, DollarSign, UserX } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -75,6 +75,12 @@ const Footer = () => {
                 <Link to="/refund" className="hover:text-blue-400 transition flex items-center">
                   <DollarSign className="h-4 w-4 mr-2" />
                   {t('footer.refund_policy')}
+                </Link>
+              </li>
+              <li>
+                <Link to="/delete-account" className="hover:text-blue-400 transition flex items-center">
+                  <UserX className="h-4 w-4 mr-2" />
+                  {t('footer.delete_account')}
                 </Link>
               </li>
             </ul>

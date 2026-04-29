@@ -64,6 +64,7 @@
     "privacy_policy": "Kebijakan Privasi",
     "terms_conditions": "Syarat & Ketentuan",
     "refund_policy": "Kebijakan Pengembalian Dana",
+    "delete_account": "Hapus Akun",
     "business_hours": "Jam Operasional",
     "hours_desc": "Senin - Sabtu 8:30-17:30 (Istirahat 12:30-13:30)",
     "rights": "Hak cipta dilindungi undang-undang."
@@ -283,6 +284,32 @@
     "privacy_notice": "Dengan mengirimkan formulir ini, Anda setuju dengan Kebijakan Privasi dan Syarat Layanan kami",
     "success_title": "Aplikasi Berhasil Dikirim!",
     "success_message": "Terima kasih atas aplikasi Anda. Tim kami akan meninjau aplikasi Anda dan menghubungi Anda dalam 3-5 hari kerja."
+  },
+  "deleteAccount": {
+    "title": "Hapus Akun",
+    "subtitle": "Minta penghapusan permanen akun dan data Anda",
+    "last_updated": "Terakhir Diperbarui: April 2026",
+    "intro_title": "Sebelum Anda Menghapus Akun",
+    "intro_desc": "Harap baca informasi berikut dengan cermat sebelum mengirimkan permintaan penghapusan Anda.",
+    "warning_title": "Informasi Penting",
+    "warning_1": "Penghapusan akun bersifat permanen dan tidak dapat dibatalkan",
+    "warning_2": "Semua data pribadi Anda akan dihapus secara permanen dalam 30 hari",
+    "warning_3": "Riwayat transaksi Anda akan disimpan selama 5 tahun untuk kepatuhan hukum",
+    "warning_4": "Anda akan kehilangan akses ke semua layanan segera setelah penghapusan",
+    "warning_5": "Saldo akun yang tersisa akan hangus",
+    "form_title": "Permintaan Penghapusan Akun",
+    "phone_label": "Nomor Telepon",
+    "phone_placeholder": "+62 xxx xxxx xxxx",
+    "reason_label": "Alasan Penghapusan",
+    "reason_placeholder": "Tolong beritahu kami mengapa Anda ingin menghapus akun Anda (opsional tetapi membantu)",
+    "confirmation_label": "Saya memahami tindakan ini bersifat permanen dan data saya akan dihapus",
+    "submit_button": "Kirim Permintaan Penghapusan",
+    "success_title": "Permintaan Berhasil Dikirim",
+    "success_message": "Permintaan penghapusan akun Anda telah diterima. Kami akan memproses permintaan Anda dalam 3-5 hari kerja dan mengirimkan pesan konfirmasi.",
+    "contact_title": "Butuh Bantuan?",
+    "contact_desc": "Jika Anda memiliki pertanyaan atau ingin mendiskusikan alternatif, silakan hubungi kami:",
+    "business_hours": "Jam Kerja",
+    "hours_desc": "Senin sampai Sabtu 8:30-17:30 (Istirahat makan siang 12:30-13:30) GMT+7"
   }
 }
 
